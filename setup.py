@@ -1,5 +1,5 @@
 import setuptools
-from fluxo_aws import __version__
+from fluxo_ofx_parse import __version__
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
